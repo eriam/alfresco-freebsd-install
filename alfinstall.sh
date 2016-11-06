@@ -21,8 +21,8 @@ export KEYSTOREBASE=http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/
 #export LOCALESUPPORT=sv_SE.UTF-8
 export LOCALESUPPORT=en_US.UTF-8
 
-export JDBCMYSQLURL=http://cdn.mysql.com/Downloads/Connector-J
-export JDBCMYSQL=mysql-connector-java-5.1.34.tar.gz
+export JDBCMYSQLURL=http://cdn.mysql.com//Downloads/Connector-J/
+export JDBCMYSQL=mysql-connector-java-5.1.40.tar.gz
 
 export LIBREOFFICE=http://downloadarchive.documentfoundation.org/libreoffice/old/4.2.7.2/deb/x86_64/LibreOffice_4.2.7.2_Linux_x86-64_deb.tar.gz
 export SWFTOOLS=http://www.swftools.org/swftools-2013-04-09-1007.tar.gz
